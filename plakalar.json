@@ -4,20 +4,20 @@
       "plaka": "'34KG4978'",
       "ad": "'OĞUZHAN UĞUR'",
       "tarih": "'-'",
-      "durum": "'-');"
+      "durum": "'-'"
     },
     {
       "id": "INSERT INTO `75k_plaka` VALUES (2",
       "plaka": "'06KIN92'",
       "ad": "'TENZİLE ÇELİK'",
       "tarih": "'-'",
-      "durum": "'-');"
+      "durum": "'-'"
     },
-     {
+    {
       "id": "INSERT INTO `75k_plaka` VALUES (25",
       "plaka": "'34RE4189'",
       "ad": "'ÜMIT ÖZÇELİK'",
       "tarih": "'-'",
-      "durum": "'-');"
+      "durum": "'-'"
     }
 ]
