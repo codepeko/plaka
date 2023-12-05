@@ -13,8 +13,7 @@
       "tarih": "'-'",
       "durum": "'-');"
     },
-    // ... Diğer öğeler ...
-    {
+     {
       "id": "INSERT INTO `75k_plaka` VALUES (25",
       "plaka": "'34RE4189'",
       "ad": "'ÜMIT ÖZÇELİK'",
